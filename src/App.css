@@ -2,6 +2,13 @@
   text-align: center;
 }
 
+.typing-box {
+  text-align: left;
+  width: 500px;
+  height: 300px;
+  border: solid black 2px;
+}
+
 .App-logo {
   height: 40vmin;
 }
